@@ -1,6 +1,5 @@
 ---
 layout: default
-title: অধরা ধরার সাধ
 parent: খসড়া পংক্তি
 nav_order: 2
 ---
