@@ -1,7 +1,6 @@
 ---
-layout: default
 parent: খসড়া পংক্তি
-nav_order: 2
+nav_order: ২০১২-০৯-০২
 ---
 
 # অধরা ধরার সাধ
